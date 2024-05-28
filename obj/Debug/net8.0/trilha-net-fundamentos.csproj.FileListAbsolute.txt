@@ -1,0 +1,15 @@
+C:\Projetos de Estudo\trilha-net-fundamentos\bin\Debug\net8.0\trilha-net-fundamentos.exe
+C:\Projetos de Estudo\trilha-net-fundamentos\bin\Debug\net8.0\trilha-net-fundamentos.deps.json
+C:\Projetos de Estudo\trilha-net-fundamentos\bin\Debug\net8.0\trilha-net-fundamentos.runtimeconfig.json
+C:\Projetos de Estudo\trilha-net-fundamentos\bin\Debug\net8.0\trilha-net-fundamentos.dll
+C:\Projetos de Estudo\trilha-net-fundamentos\bin\Debug\net8.0\trilha-net-fundamentos.pdb
+C:\Projetos de Estudo\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos de Estudo\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.AssemblyInfoInputs.cache
+C:\Projetos de Estudo\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.AssemblyInfo.cs
+C:\Projetos de Estudo\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.csproj.CoreCompileInputs.cache
+C:\Projetos de Estudo\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.sourcelink.json
+C:\Projetos de Estudo\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.dll
+C:\Projetos de Estudo\trilha-net-fundamentos\obj\Debug\net8.0\refint\trilha-net-fundamentos.dll
+C:\Projetos de Estudo\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.pdb
+C:\Projetos de Estudo\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.genruntimeconfig.cache
+C:\Projetos de Estudo\trilha-net-fundamentos\obj\Debug\net8.0\ref\trilha-net-fundamentos.dll
